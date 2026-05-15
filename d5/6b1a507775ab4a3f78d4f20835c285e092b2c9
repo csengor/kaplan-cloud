@@ -1,0 +1,25 @@
+kaplancloudapp/tests.py
+  s_9af56572b7b5cf::t_7a5f568ec69d6a 445,452
+kaplancloudapp/thread_classes.py
+  s_9af56572b7b5cf::t_f224417902d925 314-316
+  s_9af56572b7b5cf::t_73a468037b023c 261-274,285-304,306-308,310-313,317-322,324-335,337,339-346,348,350,352-354,356-361
+  s_9af56572b7b5cf::t_4b65b3609aa458 8
+kaplancloudapp/models.py
+  s_9af56572b7b5cf::t_ef670333a83af1 459
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "d56b1a507775ab4a3f78d4f20835c285e092b2c9",
+  "prompts": {},
+  "sessions": {
+    "s_9af56572b7b5cf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "37bc9009-9d99-4b3d-b0da-0a4b9e9d9e86",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Çağatay Onur Şengör <contact@csengor.com>"
+    }
+  }
+}
