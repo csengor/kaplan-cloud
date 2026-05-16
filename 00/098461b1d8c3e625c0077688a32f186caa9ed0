@@ -1,0 +1,19 @@
+compose/README.md
+  s_a9e7e40b3b5275::t_880d93d8b81a13 1,3-5,7,9-15,17-25,27-47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "00098461b1d8c3e625c0077688a32f186caa9ed0",
+  "prompts": {},
+  "sessions": {
+    "s_a9e7e40b3b5275": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8bb60672-2350-47ca-a64a-2edd786247de",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Çağatay Onur Şengör <contact@csengor.com>"
+    }
+  }
+}
