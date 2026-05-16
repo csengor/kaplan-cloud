@@ -1,0 +1,19 @@
+kaplancloudapp/templates/project.html
+  s_9af56572b7b5cf::t_80af346b9de476 124-153
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "329864148dd39ebcd75f50bf2ef93dae523f2f57",
+  "prompts": {},
+  "sessions": {
+    "s_9af56572b7b5cf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "37bc9009-9d99-4b3d-b0da-0a4b9e9d9e86",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Çağatay Onur Şengör <contact@csengor.com>"
+    }
+  }
+}
