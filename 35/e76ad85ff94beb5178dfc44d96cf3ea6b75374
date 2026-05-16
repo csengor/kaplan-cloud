@@ -1,0 +1,19 @@
+.env.example
+  s_a9e7e40b3b5275::t_b5a93428a16408 4-5,8,12-48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "35e76ad85ff94beb5178dfc44d96cf3ea6b75374",
+  "prompts": {},
+  "sessions": {
+    "s_a9e7e40b3b5275": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8bb60672-2350-47ca-a64a-2edd786247de",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Çağatay Onur Şengör <contact@csengor.com>"
+    }
+  }
+}
