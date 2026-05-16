@@ -1,0 +1,35 @@
+docs/source/inviting-teammates.rst
+  s_a9e7e40b3b5275::t_62667bedd1b8da 1-51
+docs/source/projects.rst
+  s_a9e7e40b3b5275::t_cf59b312b57677 4-56
+docs/source/editor.rst
+  s_a9e7e40b3b5275::t_c96f62dbd7317d 1-56
+docs/source/translation-memories.rst
+  s_a9e7e40b3b5275::t_1fbfa696d98bdb 1,4-8,10-11,13-14,16-18,20-21,23-24,26-61
+docs/source/analysis-and-reports.rst
+  s_a9e7e40b3b5275::t_3c306e7fa941e8 1-61
+docs/source/getting-started.rst
+  s_a9e7e40b3b5275::t_4f0814fa47fcbe 1-42
+docs/source/index.rst
+  s_a9e7e40b3b5275::t_52c5e67ea0eb7e 4-20,22,24,26-31
+docs/source/creating-projects.rst
+  s_a9e7e40b3b5275::t_b70ad8efaf9a58 1-69
+docs/source/language-profiles.rst
+  s_a9e7e40b3b5275::t_cef2caf1d74d82 1,4-23,25-29,31-32,34-35,37-38,40-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "fe401e19f02dea13da6b00ee91f140b125591b9f",
+  "prompts": {},
+  "sessions": {
+    "s_a9e7e40b3b5275": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8bb60672-2350-47ca-a64a-2edd786247de",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Çağatay Onur Şengör <contact@csengor.com>"
+    }
+  }
+}
