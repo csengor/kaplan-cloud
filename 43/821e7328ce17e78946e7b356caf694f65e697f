@@ -1,0 +1,19 @@
+Containerfile
+  s_6ec33cec480a38::t_10266127c7f73f 14-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "43821e7328ce17e78946e7b356caf694f65e697f",
+  "prompts": {},
+  "sessions": {
+    "s_6ec33cec480a38": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e4442541-2a02-4475-b494-6d60d5ded5fe",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Çağatay Onur Şengör <contact@csengor.com>"
+    }
+  }
+}
