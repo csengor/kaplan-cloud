@@ -1,0 +1,19 @@
+.dockerignore
+  s_6ec33cec480a38::t_96d1363b18d3dd 10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "4f5116f46d2f420e1283fb12fb7808f33bf77829",
+  "prompts": {},
+  "sessions": {
+    "s_6ec33cec480a38": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e4442541-2a02-4475-b494-6d60d5ded5fe",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Çağatay Onur Şengör <contact@csengor.com>"
+    }
+  }
+}
